@@ -1,0 +1,11 @@
+AR-Menu-App/
+├── Assets/
+│   ├── Scripts/               # C# scripts (e.g., ARMenuManager.cs)
+│   ├── Prefabs/               # 3D models or prefabs for menu items
+│   ├── ReferenceImages/       # Marker images for AR tracking
+│   ├── Scenes/                # Unity scenes
+│   └── ARFoundation/          # AR Foundation setup files
+├── ProjectSettings/           # Unity project settings
+├── .gitignore                 # Ignore Unity cache files
+├── README.md                  # Project description and setup guide
+└── LICENSE                    # Open-source license (optional)
